@@ -352,7 +352,7 @@ This is consistent with the policy's no-assumption rule.
 
 ### Run 2 → Run 3 interpretation variance
 
-Run 3 explicitly reapplied the Run 2 stable-patient/alternative-monitoring clarification. The Run 3 routing intervention did not modify that urgency rule. The agent nevertheless interpreted the “do not assume effectiveness” condition more strictly because the report did not establish that manual spot checks were an effective alternative monitoring pathway. The resulting High-provisional classification therefore represents residual interpretation variance at an evidence boundary rather than a routing-policy change.
+Run 3 explicitly reapplied the Run 2 stable-patient/alternative-monitoring clarification. The Run 3 routing intervention did not modify that urgency rule, and Run 3 did not use the Run 2 diagnosis or trajectory as input. The agent nevertheless interpreted the “do not assume effectiveness” condition more strictly because the report did not establish that manual spot checks were an effective alternative monitoring pathway. The resulting High-provisional classification therefore represents run-to-run interpretation variance at an evidence boundary rather than a routing-policy change.
 
 ### Why no fourth run was performed
 
