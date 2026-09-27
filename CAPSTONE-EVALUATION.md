@@ -350,6 +350,10 @@ Run 3 classifies MR-004 as High (provisional) because the patient is stable and 
 
 This is consistent with the policy's no-assumption rule.
 
+### Run 2 → Run 3 interpretation variance
+
+Run 3 explicitly reapplied the Run 2 stable-patient/alternative-monitoring clarification. The Run 3 routing intervention did not modify that urgency rule. The agent nevertheless interpreted the “do not assume effectiveness” condition more strictly because the report did not establish that manual spot checks were an effective alternative monitoring pathway. The resulting High-provisional classification therefore represents residual interpretation variance at an evidence boundary rather than a routing-policy change.
+
 ### Why no fourth run was performed
 
 The remaining uncertainty was deliberately treated as an **evidence boundary**, not automatically as a system defect.
